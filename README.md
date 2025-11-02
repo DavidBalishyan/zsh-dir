@@ -11,3 +11,4 @@ And also setup the zshrc from my dotfiles from [here](https://github.com/DavidBa
 [@zsh-users](https://github.com/zsh-users)
 [@romkatv](https://github.com/romkatv)
 [@sindresorhus](https://github.com/sindresorhus)
+[@agnoster](https://github.com/agnoster)
